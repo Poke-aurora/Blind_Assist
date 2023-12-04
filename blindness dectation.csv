@@ -1,0 +1,16 @@
+patient_ID,Age,Family_history,Diabetes_leval in mg/dl,Hight_blood_pressure,Glaucoma,Cataracts,Macular_Degeneratation,Blindness_Diagnosis,
+1,30,yes,70,no,no,yes,no,10
+2,35,no,80,yes,yes,no,no,20
+3,40,yes,90,yes,no,yes,yes,30
+4,45,yes,100,no,yes,yes,no,40
+5,50,no,110,no,no,no,no,50
+6,55,yes,120,yes,no,yes,no,60
+7,60,yes,125,no,no,no,no,70
+8,65,yes,127,no,yes,yes,no,80
+9,70,yes,128,yes,no,yes,no,81
+10,75,no,129,no,no,no,no,80
+11,80,yes,130,no,yes,no,no,85
+12,85,no,134,no,yes,no,no,92
+13,90,yes,134,yes,no,yes,yes,95
+14,95,yes,132,yes,no,yes,yes,92
+15,250,no,80,no,no,no,no,90
